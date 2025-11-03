@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Smart Book Locator", layout="centered")
 st.title("📚 Smart Book Locator Dashboard")
 
-api_url = "https://smart-5.onrender.com/search"
+api_url = "https://newapp-z5rf.onrender.com/search"
 
 # Search bar
 book_id = st.text_input("🔍 Enter Book ID to locate")
